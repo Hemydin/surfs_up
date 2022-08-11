@@ -1,5 +1,6 @@
-# Adding climate_analysis file
+# Adding files to ignore
 climate_analysis.ipynb
+app.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
